@@ -5,12 +5,8 @@ Clase auxiliar de operaciones del proyecto
 
 GRUPO:3CV5
 
-AUTORES: 
-Berthely Vela Yamilet
-Martínez Chavarrría Brandon
+AUTOR:
 Velázquez Gen Josué Emmanuel
-Torres Ortiz Uziel
-Hernandez Martínez Jorge Luis
 """
 
 import numpy as np
