@@ -5,12 +5,8 @@ Operaciones Básicas con Señales de secuencias x(n) y Señales de Audio
 
 GRUPO:3CV5
 
-AUTORES: 
-Berthely Vela Yamilet
-Martínez Chavarrría Brandon
+AUTOR:
 Velázquez Gen Josué Emmanuel
-Torres Ortiz Uziel
-Hernandez Martínez Jorge Luis
 
 """
 
